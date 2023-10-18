@@ -12,6 +12,7 @@ function obtenerMayor(x, y) {
     }
 }
 
+
 function mayoriaDeEdad(edad) {
     // Determinar si la persona puede ingresar al evento según su edad.
     // Si tiene 18 años ó más debe retornar el string: "Allowed".
@@ -155,6 +156,7 @@ function operadoresLogicos(num1, num2, num3) {
     } else {
         return false;
     }
+
 }
 
 function esPrimo(num) {
